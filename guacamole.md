@@ -5,5 +5,6 @@
 - avocados
 - oil
 - lime
+- salt
 
 ## Steps
